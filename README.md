@@ -2,54 +2,31 @@
 
 ## 自己紹介
 
-- SIerで、要件定義、設計、開発、テスト、運用保守、ユーザサポートを担当。
-- チームリーダー兼システムエンジニア・プログラマ・テスターとして活動中。
-- ReactとNext.jsを学習中で、AWS、Docker、Linuxも学習予定。
+小売業の店舗業務を経験した後、情報システム領域でバックオフィス系業務システムの開発・運用保守・改善・導入支援を担当しています。
+現在は、チームリーダー兼システムエンジニアとして、要件整理、設計、開発、テスト、運用保守、ユーザーサポートまで幅広く対応しています。
+電子申請、経費精算、人事・労務系申請、データ連携、制度変更対応など、業務とシステムの橋渡しを行う領域を中心に経験を積んでいます。
 
 ## 経歴
 
-- **2017年**: 新卒で小売業のIT事業所に入社。店舗研修後、社内SEとして配属。
-- **2022年**: グループのIT企業に出向。
-- **2023年**: 出向先のIT企業に転籍。
+* **2017年**
+  小売業のIT事業所に入社。店舗研修後、社内SEとして配属。
 
-## スキル
+* **2022年**
+  グループ内IT企業へ出向。
 
-### 言語
+* **2023年**
+  出向先のIT企業へ転籍。
 
-- JavaScript
-- jQuery
-- C#.NET
-- VB.NET
-- VBScript
-- HTML
-- CSS
-- PowerShell
-- バッチスクリプト
+## 主な経験
 
-### フレームワーク・ライブラリ
-
-- .NET Framework
-- jQuery
-
-### ツール
-
-- Visual Studio
-- Visual Studio Code
-- Git
-
-### データベース
-
-- Oracle
-- SQL Server
-
-## 趣味
-
-- 映画鑑賞
-- 読書
-- ゲーム
-- 温泉
+* 電子申請システムの開発・運用保守
+* 経費精算システムの導入支援
+* 人事・労務系申請の運用改善
+* データ連携、ファイル連携、マスタ管理
+* 制度変更に伴う業務・システム対応
+* 問い合わせ対応、障害・エラー調査
+* 利用者向け資料、クイックガイド、動画の作成
 
 <!---
-Kakeru347/Kakeru347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Kakeru347/Kakeru347 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
